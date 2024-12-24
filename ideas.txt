@@ -1,0 +1,2 @@
+1. Image classification model to detect something in a bunch of images
+2. NLP model that does a sentiment analysis on tweets or reviews
