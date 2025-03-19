@@ -23,7 +23,7 @@ Tech Stack: Keras, scikit-learn, pandas
 🔍 How to Run a Project
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/ML-Projects.git
+git clone git@github.com:nakinG23/ML-Projects.git <br>
 cd ML-Projects
 
 
@@ -57,8 +57,8 @@ python main.py
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request!
 
-📧 Connect with Me
+📧 Connect with Me <br>
 
-💼 LinkedIn: Your Profile
-💻 Portfolio: YourWebsite.com
-🐦 Twitter: @yourhandle
+💼 LinkedIn: www.linkedin.com/in/nakin-ahluwalia-a9877350 <br>
+👔 GitHub:  https://github.com/nakinG23 <br>
+💻 Portfolio: Ynaking23.github.io <br>
